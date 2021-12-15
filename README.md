@@ -18,4 +18,5 @@ Each player takes their turn by placing a stone on a 5x5 grid. Each stone has fo
 Here are some common ways of capturing in Go.
 
 #Alpha Beta Pruning Algorithm
+
 Alpha Beta Pruning is an algorithm that uses the Minimax algorithm, but prunes certain branches based on two values that propagate through the tree called alpha and beta.
